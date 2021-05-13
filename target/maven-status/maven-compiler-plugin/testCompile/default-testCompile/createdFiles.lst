@@ -1,0 +1,7 @@
+pageObjects\LoginPage.class
+pageObjects\BasePage.class
+utils\Utils.class
+tests\BaseTest.class
+utilities\AllureAttachment.class
+tests\LoginTest.class
+pageObjects\BasePage$1.class
